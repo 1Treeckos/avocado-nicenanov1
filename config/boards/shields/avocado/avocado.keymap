@@ -6,6 +6,7 @@
 // (https://github.com/manna-harbour/miryoku).
 // Customize on your own on the config folder.
 
+#define BASE    0
 #define NAV     1
 #define NUM     2
 #define FUN     3
